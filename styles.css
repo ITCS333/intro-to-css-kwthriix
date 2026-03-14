@@ -13,8 +13,8 @@
      - Set the text color to #333333
      - Remove default margin and padding (set both to 0)
 --------------------------------------------------------------- */
-body{
-  font-family: 'Arial', sans-serif ;
+#body{
+  font-family: Arial, sans-serif ;
   background-color: #f5f5f5;
   color: #333333;
   margin: 0;
@@ -207,7 +207,7 @@ cite{
      - Set the font-size to 1rem
 --------------------------------------------------------------- */
 
-btn{
+.btn{
   display: inline-block;
   background-color: #2c3e50;
   color: #ffffff;
